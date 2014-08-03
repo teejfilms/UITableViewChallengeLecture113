@@ -10,4 +10,8 @@
 
 @interface OWOuterSpaceTableViewController : UITableViewController
 
+@property (strong, nonatomic) NSMutableArray *planets;
+
+// I just wanted to add another comment
+
 @end
